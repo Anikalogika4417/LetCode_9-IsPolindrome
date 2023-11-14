@@ -3,6 +3,13 @@
 
 #include <iostream>
 
+class Solution {
+public:
+    bool isPalindrome(int x) {
+
+    }
+};
+
 int main()
 {
     std::cout << "Hello World!\n";
